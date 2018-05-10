@@ -1,3 +1,4 @@
+// https://demo.tutorialzine.com/2017/08/converting-from-speech-to-text-with-javascript/ We have used and modified the speech to text code from this site 
 try {
   var SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
   var recognition = new SpeechRecognition();
